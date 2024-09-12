@@ -22,6 +22,7 @@ https://lu.ma/z1kaje11
 ## Groups
 
 ### Group 1
+* Adalberto Junior
 * Alan Silva dos Santos
 * Ana Claudia da Cunha
 * Pedro Coelho do Nascimento
