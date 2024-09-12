@@ -54,8 +54,6 @@ https://lu.ma/z1kaje11
 * João Paulo
 
 ### Group 7
-José Aldo Teixeira da Silva
-
-Laercio Henrique Simões
-
-Flavus Regis
+* José Aldo Teixeira da Silva
+* Laercio Henrique Simões
+* Flavus Regis
