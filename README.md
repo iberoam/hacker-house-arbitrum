@@ -52,3 +52,10 @@ https://lu.ma/z1kaje11
 ### Group 6 (ZKP-Privacy)
 * Adriano Busson
 * João Paulo
+
+### Group 7
+José Aldo Teixeira da Silva, Correntes-PE / Brasil
+
+Laercio Henrique Simões, Vila Velha-ES / Brasil
+
+Flavus Regis, Salvador-BA / Brasil
