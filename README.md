@@ -57,3 +57,7 @@ https://lu.ma/z1kaje11
 * José Aldo Teixeira da Silva
 * Laercio Henrique Simões
 * Flavus Regis
+
+### Grupo 8
+* Cristiane Rodrigues da Silva 
+* Maycon Batestin 
