@@ -62,3 +62,11 @@ https://lu.ma/z1kaje11
 ### Grupo 8
 * Cristiane Rodrigues da Silva 
 * Maycon Batestin 
+
+### Grupo 9
+* Igor Amaro
+* Camila Deodato
+
+### Grupo 10
+* Nicolas Duarte
+* Isaac D'Césares
