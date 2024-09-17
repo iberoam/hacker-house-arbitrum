@@ -70,3 +70,5 @@ https://lu.ma/z1kaje11
 ### Grupo 10
 * Nicolas Duarte
 * Isaac D'Césares
+* Mateus Andrade da Silva
+* Davi Gomes Alves
