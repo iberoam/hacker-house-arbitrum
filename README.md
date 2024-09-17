@@ -21,14 +21,14 @@ https://lu.ma/z1kaje11
 
 ## Groups
 
-### Group 1
+### Group 1 (Artchain)
 * Adalberto Junior
 * Alan Silva dos Santos
 * Ana Claudia da Cunha
 * Pedro Coelho do Nascimento
 * Rodrigo Zaroni
 
-### Group 2
+### Group 2 (Supply Link)
 * Max Felipe Silva Dos Santos Cravo
 * Isabelle Santiago Cardoso Rizzo
 * Gabriel Phelippe Bezerra
@@ -41,9 +41,11 @@ https://lu.ma/z1kaje11
 * Vitor Alves Pavani
 
 ### Group 4 (Greenpill Brasil)
-* Athus
-* Cauê
-* Deroila
+* Athus Oliveira
+* Cauê Marcel
+* Deroila Marinho
+* João Estellita
+* Marcus Dutra
 
 ### Group 5
 * Bernardo Dourado Bordeaux R. Machado
@@ -63,11 +65,11 @@ https://lu.ma/z1kaje11
 * Cristiane Rodrigues da Silva 
 * Maycon Batestin 
 
-### Grupo 9
+### Grupo 9 (OnKey)
 * Igor Amaro
 * Camila Deodato
 
-### Grupo 10
+### Grupo 10 (LearnChain)
 * Nicolas Duarte
 * Isaac D'Césares
 * Mateus Andrade da Silva
