@@ -22,8 +22,8 @@ function App() {
   const [signer, setSigner] = useState<ethers.Signer | null>(null);
 
   // URL to ABAKHUS API
-  // const api_url = "https://arbitrum.abakhus.io/api";  
-  const api_url = "http://localhost:4002/api";  
+  const api_url = "https://arbitrum.abakhus.io/api";  
+  // const api_url = "http://localhost:4002/api";  
 
   // Your ABAKHUS API-KEY
   const api_key = '1234567890'
