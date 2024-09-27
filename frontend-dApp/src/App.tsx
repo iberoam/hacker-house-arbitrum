@@ -19,9 +19,11 @@ function App() {
   const [tokenURI, setTokenURI] = useState<string | null>(null);
   const [mintData, setMintData] = useState<string>('');
   const [tokenId, setTokenId] = useState<string>('');
+  const [signer, setSigner] = useState<ethers.Signer | null>(null);
 
   // URL to ABAKHUS API
-  const api_url = "https://arbitrum.abakhus.io/api";  
+  // const api_url = "https://arbitrum.abakhus.io/api";  
+  const api_url = "http://localhost:4002/api";  
 
   // Your ABAKHUS API-KEY
   const api_key = '1234567890'
@@ -39,7 +41,10 @@ function App() {
             setAccount(accounts[0]);
             const provider = new ethers.BrowserProvider(window.ethereum as any);
             const signer = await provider.getSigner();
+            console.log("Signer: ", signer);
+            setSigner(signer);
             setContract(contractAddress);
+            
           } else {
             console.error('No accounts found');
           }
@@ -73,11 +78,16 @@ function App() {
     };
   }, [account]); // Add account to the dependency array
   
-  // Get Tokens By Owner
+  /**
+   * Get Tokens By Owner
+   */
   const getTokensByOwner = async ()=> {
     try {
+      const signature = await signer!.signMessage("Please sign this message to verify your ownership");
+      console.log("Signature: ", signature);
+      
       const response = await axios.get(`${api_url}/getTokensByOwner`, {
-        params: { owner: account },
+        params: { owner: account, signature },
         headers: {
           'x-api-key': api_key
         }
