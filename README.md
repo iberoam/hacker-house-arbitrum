@@ -153,6 +153,6 @@ Yashina Gomes Maciel  | Brasil | Natal | Estácio de Sá | Privacy-preserving dA
 
 ## Hacker House sessions
 
-Publicly available at IberoAm youtube channel:
+Recorded sessions are publicly available at IberoAm youtube channel:
 
 https://www.youtube.com/watch?v=ehaATPrdog8&list=PL5dr-3NL6H0dsgGjaN2j9OS0hEdJoplau
