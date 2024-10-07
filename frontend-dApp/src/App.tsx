@@ -5,6 +5,7 @@ import { ethers } from 'ethers';
 import './App.css';
 import { MetaMaskInpageProvider } from "@metamask/providers";
 import axios from 'axios';
+import Ipfs from './components/ipfs';
 
 declare global {
   interface Window{
@@ -41,7 +42,6 @@ function App() {
             setAccount(accounts[0]);
             const provider = new ethers.BrowserProvider(window.ethereum as any);
             const signer = await provider.getSigner();
-            console.log("Signer: ", signer);
             setSigner(signer);
             setContract(contractAddress);
             
@@ -84,7 +84,6 @@ function App() {
   const getTokensByOwner = async ()=> {
     try {
       const signature = await signer!.signMessage("Please sign this message to verify your ownership");
-      console.log("Signature: ", signature);
       
       const response = await axios.get(`${api_url}/getTokensByOwner`, {
         params: { owner: account, signature },
@@ -320,6 +319,7 @@ function App() {
             <p>Token URI: {tokenURI}</p>
           </div>
         )}
+        <Ipfs />
         <ToastContainer />
       </header>
     </div>
