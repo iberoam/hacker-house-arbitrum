@@ -27,10 +27,10 @@ function App() {
   // const api_url = "http://localhost:4002/api";  
 
   // Your ABAKHUS API-KEY
-  const api_key = '1234567890'
+  const api_key = ''
 
   // Your contract deployed at Arbitrum Sepolia
-  const contractAddress = '0x69607faB1fc7851737b980B0539C5a183dB3afCe';
+  const contractAddress = '';
   
   useEffect(() => {
     // Connect with Metamask
