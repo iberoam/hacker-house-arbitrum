@@ -107,12 +107,18 @@ Yashina Gomes Maciel  | Brasil | Natal | Estácio de Sá | Privacy-preserving dA
 * Isabelle Santiago Cardoso Rizzo
 * Gabriel Phelippe Bezerra
 * Thalles Rodrigues
+#### Contracts
+* Arbitrum Sepolia: [0xB40FF3a8f278F306826399c0200217eaBa46Ec1F](https://sepolia.arbiscan.io/address/0xB40FF3a8f278F306826399c0200217eaBa46Ec1F)
+* Arbitrum One: [0xe33Ec97Dbeeb46bE32270656611fFfe02BB9fbD8](https://arbiscan.io/address/0xe33Ec97Dbeeb46bE32270656611fFfe02BB9fbD8)
 
 ### Group 3
 * Leonardo de Oliveira Silva Vaz
 * Bruno Ricardo Corrêa de Carvalho
 * João Pedro de Oliveira Tavares Duarte
 * Vitor Alves Pavani
+#### Contracts
+* Arbitrum Sepolia: [0xe28BdABDa2eB355EC3d9cf2412a5209064340b97](https://sepolia.arbiscan.io/address/0xe28BdABDa2eB355EC3d9cf2412a5209064340b97)
+* Arbitrum One: [0x5f2D6472db1D2E20FB23ba067dEbb427170F1fb4](https://arbiscan.io/address/0x5f2D6472db1D2E20FB23ba067dEbb427170F1fb4)
 
 ### Group 4 (Greenpill Brasil)
 * Athus Oliveira
@@ -120,6 +126,9 @@ Yashina Gomes Maciel  | Brasil | Natal | Estácio de Sá | Privacy-preserving dA
 * Deroila Marinho
 * João Estellita
 * Marcus Dutra
+#### Contracts
+* Arbitrum Sepolia: [0xf8FF55347A9ab66Ae88f2E1629CF216F6Ae5AFA7](https://sepolia.arbiscan.io/address/0xf8FF55347A9ab66Ae88f2E1629CF216F6Ae5AFA7)
+* Arbitrum One: [0x587c4a13a2A92663155921C8eda92784312ac93d](https://arbiscan.io/address/0x587c4a13a2A92663155921C8eda92784312ac93d)
 
 ### Group 5
 * Bernardo Dourado Bordeaux R. Machado
@@ -129,11 +138,17 @@ Yashina Gomes Maciel  | Brasil | Natal | Estácio de Sá | Privacy-preserving dA
 ### Group 6 (ZKP-Privacy)
 * Adriano Busson
 * João Paulo
+#### Contracts
+* Arbitrum Sepolia: [0xd9fb2d4f0f1cdc9Ddd0114e93158D2a9e58444bA](https://sepolia.arbiscan.io/address/0xd9fb2d4f0f1cdc9Ddd0114e93158D2a9e58444bA)
+* Arbitrum One: [0x1f5AB09303239408c5ab127c5012BE52e682803A](https://arbiscan.io/address/0x1f5AB09303239408c5ab127c5012BE52e682803A)
 
 ### Group 7
 * José Aldo Teixeira da Silva
 * Laercio Henrique Simões
 * Flavus Regis
+#### Contracts
+* Arbitrum Sepolia: [0x633578ae54781680f723a63AeDe2634C013AEB8B](https://sepolia.arbiscan.io/address/0x633578ae54781680f723a63AeDe2634C013AEB8B)
+* Arbitrum One: [0x051118BaD0a9c76EeD4E159CBfBe9b756fDB0d45](https://arbiscan.io/address/0x051118BaD0a9c76EeD4E159CBfBe9b756fDB0d45)
 
 ### Grupo 8
 * Cristiane Rodrigues da Silva 
@@ -143,12 +158,18 @@ Yashina Gomes Maciel  | Brasil | Natal | Estácio de Sá | Privacy-preserving dA
 * Igor Amaro
 * Camila Deodato
 * André Ferreira
+#### Contracts
+* Arbitrum Sepolia: [0xe7722879b1EBde58299044636fC7B2C770b3e0b3](https://sepolia.arbiscan.io/address/0xe7722879b1EBde58299044636fC7B2C770b3e0b3)
+* Arbitrum One: [0x1a53BB85E8fe9581C80e65f0C0BF84C5830445e6](https://arbiscan.io/address/0x1a53BB85E8fe9581C80e65f0C0BF84C5830445e6)
 
 ### Grupo 10 (LearnChain)
 * Nicolas Duarte
 * Isaac D'Césares
 * Mateus Andrade da Silva
 * Davi Gomes Alves
+#### Contracts
+* Arbitrum Sepolia: [0xDA7485bE770Ae3D79AE3642b8289a5960721A9d1](https://sepolia.arbiscan.io/address/0xDA7485bE770Ae3D79AE3642b8289a5960721A9d1)
+* Arbitrum One: [0xE6Dbe4Eb37924794C78c993691B2865A0a7102EE](https://arbiscan.io/address/0xE6Dbe4Eb37924794C78c993691B2865A0a7102EE)
 
 * ### Group 11
 * Paulo Anaya
