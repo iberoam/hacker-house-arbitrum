@@ -98,6 +98,9 @@ Yashina Gomes Maciel  | Brasil | Natal | Estácio de Sá | Privacy-preserving dA
 * Ana Claudia da Cunha
 * Pedro Coelho do Nascimento
 * Rodrigo Zaroni
+#### Contracts
+* Arbitrum Sepolia: [0xBD60CB04539349419474F4386Fd43F3f9dE0eFd7](https://sepolia.arbiscan.io/address/0xBD60CB04539349419474F4386Fd43F3f9dE0eFd7)
+* Arbitrum One: [0x38CF42c5d923cEe46EB72b008620027b6EA47E2D](https://arbiscan.io/address/0x38CF42c5d923cEe46EB72b008620027b6EA47E2D)
 
 ### Group 2 (Supply Link)
 * Max Felipe Silva Dos Santos Cravo
