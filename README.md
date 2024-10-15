@@ -21,6 +21,10 @@ https://lu.ma/z1kaje11
 
 ## Registered participants
 
+<details>
+  <summary>Click here</summary>
+
+
 | Name | Country of residence | City of residence |University or Company | Project type |
 | --- | --- | --- | --- | --- |
 | Afo | United States | San Diego | Greenpill Dev Guild | Other
@@ -89,7 +93,7 @@ Vicente Hahn de Lima Gongora | Brasil | Londrina | Mok Beats  | Other
 Victor Prado Siqueira | Brazil | Rio de Janeiro | Federal University of Rio de Janeiro | DeSci
 Vitor Alves Pavani | Brazil | Rio de Janeiro | UFRJ | DeFi
 Yashina Gomes Maciel  | Brasil | Natal | Estácio de Sá | Privacy-preserving dApp
-
+</details>
 ## Groups
 
 ### Group 1 (Artchain)
