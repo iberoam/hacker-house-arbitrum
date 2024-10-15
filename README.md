@@ -94,6 +94,7 @@ Victor Prado Siqueira | Brazil | Rio de Janeiro | Federal University of Rio de J
 Vitor Alves Pavani | Brazil | Rio de Janeiro | UFRJ | DeFi
 Yashina Gomes Maciel  | Brasil | Natal | Estácio de Sá | Privacy-preserving dApp
 </details>
+
 ## Groups
 
 ### Group 1 (Artchain)
