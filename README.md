@@ -195,3 +195,31 @@ Yashina Gomes Maciel  | Brasil | Natal | Estácio de Sá | Privacy-preserving dA
 Recorded sessions are publicly available at IberoAm youtube channel:
 
 https://www.youtube.com/watch?v=ehaATPrdog8&list=PL5dr-3NL6H0dsgGjaN2j9OS0hEdJoplau
+
+## Best 3 projects/dApps selected
+
+### 1st place: LearnChain
+
+#### GitHub
+https://github.com/LearnChainApp/
+#### Contracts
+* Arbitrum Sepolia: [0xD5a867a8Cb1bB037D7E8176644aDA0D281dc0293](https://sepolia.arbiscan.io/address/0xD5a867a8Cb1bB037D7E8176644aDA0D281dc0293)
+* Arbitrum One: [0xa1f48e7827a9296133FE21A36a8F561B0eBD9DFA](https://arbiscan.io/address/0xa1f48e7827a9296133FE21A36a8F561B0eBD9DFA)
+
+### 2nd place: ArtChain
+
+#### GitHub
+https://github.com/PedroCo3lho/ArtChain-dapp/tree/main
+
+#### Contracts
+* Arbitrum Sepolia: [0xBD60CB04539349419474F4386Fd43F3f9dE0eFd7](https://sepolia.arbiscan.io/address/0xBD60CB04539349419474F4386Fd43F3f9dE0eFd7)
+* Arbitrum One: [0x38CF42c5d923cEe46EB72b008620027b6EA47E2D](https://arbiscan.io/address/0x38CF42c5d923cEe46EB72b008620027b6EA47E2D)
+
+### 3rd place: Authoreum
+
+#### GitHub
+https://github.com/PedroCo3lho/ArtChain-dapp/tree/main
+
+#### Contracts
+* Arbitrum Sepolia: [0xe28BdABDa2eB355EC3d9cf2412a5209064340b97](https://sepolia.arbiscan.io/address/0xe28BdABDa2eB355EC3d9cf2412a5209064340b97)
+* Arbitrum One: [0x5f2D6472db1D2E20FB23ba067dEbb427170F1fb4](https://arbiscan.io/address/0x5f2D6472db1D2E20FB23ba067dEbb427170F1fb4)
