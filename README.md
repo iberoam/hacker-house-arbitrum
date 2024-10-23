@@ -218,7 +218,7 @@ https://github.com/PedroCo3lho/ArtChain-dapp/tree/main
 ### 3rd place: Authoreum
 
 #### GitHub
-https://github.com/PedroCo3lho/ArtChain-dapp/tree/main
+https://github.com/vazleo/arbitrum-hacker-house
 
 #### Contracts
 * Arbitrum Sepolia: [0xe28BdABDa2eB355EC3d9cf2412a5209064340b97](https://sepolia.arbiscan.io/address/0xe28BdABDa2eB355EC3d9cf2412a5209064340b97)
